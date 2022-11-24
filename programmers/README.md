@@ -1,7 +1,5 @@
-# Solutions for problems in programmers classified by languages
+# Solutions for problems in programmers classified by level 
 
 When you finish to solve the problem, let's update the list below
 
-## C++
-
-## Python
+## LV0
