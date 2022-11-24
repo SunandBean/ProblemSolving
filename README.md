@@ -1,4 +1,4 @@
-# ProblemSolving!
+# Problem solving with C++!
 
 ## Solutions of problem solving
 
